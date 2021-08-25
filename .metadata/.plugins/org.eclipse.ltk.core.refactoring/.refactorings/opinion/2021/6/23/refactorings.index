@@ -1,0 +1,15 @@
+1622790120430	Rename resource 'helloworld.jsp'
+1622790138215	Rename resource 'login.jsp'
+1622791431884	Move 'test2.html' to 'webapp'
+1622792932420	Delete element
+1622792936983	Delete element
+1622792941225	Rename resource 'test1.html'
+1622792947787	Rename resource 'test2.html'
+1622798912829	Move 'lib' to 'WEB-INF'
+1622798965810	Move 'lib' to 'hello'
+1622798976914	Move 'lib' to 'webapp'
+1622799001807	Move 'lib' to 'WEB-INF'
+1622912619516	Move 'opinion.html' to 'opinionweb'
+1622912620751	Move 'opinion-poll.html' to 'opinionweb'
+1622912621813	Move 'opinion-result.jsp' to 'opinionweb'
+1622912888366	Move 'pole.PNG' to 'opinionweb'

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JSP를 이용한 여론조사</title>
+    </head>
+
+    <body>
+    	<center>
+	        <table border="0">
+	            <tr>
+	                <td align="center">
+	                    <h2>여론조사</h2>
+	                    <form action="opinion-result.jsp" method="POST">
+	                        <label>좋아하는 과일을 선택해 주세요</label><p>
+	                        <input type="radio" name="opinion_id" value="0"> 사과 <br>
+	                        <input type="radio" name="opinion_id" value="1"> 포도 <br>
+	                        <input type="radio" name="opinion_id" value="2"> 딸기 <br>
+	                        <input type="radio" name="opinion_id" value="3"> 메론 <br>
+	                        <input type="radio" name="opinion_id" value="4"> 키위 <p>
+	                        <input type="submit" value="투표하기">
+	                    </form>
+	                </td>
+	            </tr>
+	        </table>    	
+    	</center>
+    </body>
+</html>
